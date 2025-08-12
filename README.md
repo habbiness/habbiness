@@ -29,7 +29,7 @@
 <div align="center">
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/hanbirang?pet-id=642281943932575460"
+    src="https://render.gitanimals.org/lines/habbiness?pet-id=642281943932575460"
     width="600"
     height="120"
   />
@@ -39,7 +39,7 @@
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanbirang&show_icons=true&theme=dark" style="width: 49%;" alt="Hanbi's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanbirang&layout=compact&theme=dark" style="width: 38%;" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=habbiness&show_icons=true&theme=dark" style="width: 49%;" alt="Hanbi's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habbiness&layout=compact&theme=dark" style="width: 38%;" alt="Top Languages" />
 </div>
 
