@@ -39,7 +39,7 @@
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=habbiness&show_icons=true&theme=dark" style="width: 49%;" alt="Hanbi's GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=habbiness&show_icons=true&theme=react" style="width: 49%;" alt="Hanbi's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habbiness&layout=compact&theme=dark" style="width: 38%;" alt="Top Languages" />
 </div>
 
